@@ -1,5 +1,5 @@
 <div align="center">
-<h1> 한서영, Seoyoung Han </h1>
+<h1> 한서영_Seoyoung Han </h1>
 
 <br>
 <h3 align="center">📚 Tech Stack 📚</h3>
