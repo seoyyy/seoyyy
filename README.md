@@ -57,11 +57,5 @@
 
 
 
-<br>
-<br>
-<h3 align="center">📌 Github Stats 📌</h3>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seoyyy&show_icons=true&locale=en" alt="seoyyy" /></p>
-<br>
 </div>
 
